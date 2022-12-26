@@ -2,9 +2,13 @@
 
 I'm Uliana, a frontend developer from Ukraine. I'm passionate about new technologies and creating secure, efficient, intuitive, and aesthetically pleasing software. 
 
+Skills: HTML / CSS / JS / TS / 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> ReactJS / Redux 
+
 [![Uliana's GitHub stats](https://github-readme-stats.vercel.app/api?username=ulianataushan&show_icons=true&theme=transparent)](https://github.com/ulianataushan/github-readme-stats)
 
-Skills: HTML / CSS / JS / TS / ReactJS / Redux 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 - 🌱 I’m currently learning Node.js, Express.js, Docker, PostgreSQL, AWS 
 - 📫 How to reach me: taushanuliana@gmail.com 
