@@ -2,7 +2,7 @@
 
 I'm Uliana, a frontend developer from Ukraine. I'm passionate about new technologies and creating secure, efficient, intuitive, and aesthetically pleasing software. 
 
-[![Uliana's GitHub stats](https://github-readme-stats.vercel.app/api?username=ulianataushan&show_icons=true&theme=tokyonight)](https://github.com/ulianataushan/github-readme-stats)
+[![Uliana's GitHub stats](https://github-readme-stats.vercel.app/api?username=ulianataushan&show_icons=true&theme=transparent)](https://github.com/ulianataushan/github-readme-stats)
 
 Skills: HTML / CSS / JS / TS / ReactJS / Redux 
 
