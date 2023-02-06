@@ -13,7 +13,8 @@ Skills: <br/>
 GitHub Stats: <br/>
 [![Uliana's GitHub stats](https://github-readme-stats.vercel.app/api?username=ulianataushan&show_icons=true&theme=transparent)](https://github.com/ulianataushan/github-readme-stats)
 
-I’m currently learning: <br/>
+Learning next: <br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="width:1em; height:1em" /> Java <br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" style="width:1em; height:1em" /> Node.js <br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="width:1em; height:1em" /> Express.js <br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" style="width:1em; height:1em" /> Docker <br/>
