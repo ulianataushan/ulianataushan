@@ -1,6 +1,6 @@
 ## Hello, world!
 
-I'm Uliana, a frontend developer from Ukraine. I'm passionate about new technologies and creating secure, efficient, intuitive, and aesthetically pleasing software. 
+I'm Uliana, a software developer from Ukraine. I'm passionate about new technologies and creating secure, efficient, intuitive, and aesthetically pleasing software. 
 
 Skills: <br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" style="width:1em; height:1em" /> HTML <br/>
